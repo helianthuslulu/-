@@ -7,4 +7,4 @@ http://openinx.github.io/
 
 http://hbasefly.com/2019/10/18/hbase-memstore-evolution/
 
-http://openinx.github.io/
+构建微服务之:微服务架构中的进程间通信: https://www.jianshu.com/p/9c03081bc0d9 
