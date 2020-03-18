@@ -11,4 +11,6 @@ http://hbasefly.com/2019/10/18/hbase-memstore-evolution/
 
 深入理解JVM之CAS原子操作（九）: https://zouzls.github.io/2017/01/26/CAS%E5%8E%9F%E5%AD%90%E6%93%8D%E4%BD%9C/
 
+由浅入深理解Java线程池及线程池的如何使用 https://cloud.tencent.com/developer/article/1089881
+
 
