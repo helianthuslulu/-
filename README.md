@@ -13,4 +13,5 @@ http://hbasefly.com/2019/10/18/hbase-memstore-evolution/
 
 由浅入深理解Java线程池及线程池的如何使用 https://cloud.tencent.com/developer/article/1089881
 
+亚马逊工程师博客 https://daizuozhuo.github.io/
 
